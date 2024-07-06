@@ -1,5 +1,6 @@
 # LodgeEasy
 The "LodgeEasy" is a standalone desktop-based software application designed to streamline the daily operations of a lodge. The main objective of this project is to manage and maintain the records of customers, rooms, employees, and drivers efficiently. By utilizing this system, lodge administrators can handle various activities with ease. 
+
 ![HomePage](https://github.com/rohitjha1709/LodgeEasy/assets/153065392/6162d2f1-0bde-4bcf-8bbc-8e707341dbdc)
 ![login](https://github.com/rohitjha1709/LodgeEasy/assets/153065392/73d9c685-a019-4d9f-ace5-045e03573f71)
 
